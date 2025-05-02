@@ -3,7 +3,7 @@ import React from "react";
 function article_1() {
 	return {
 		date: "Sep 2022",
-		title: "Certification",
+		title: "Full Stack Web Development",
 		description:
 			"A curated list of certifications that reflect my commitment to continuous learning and excellence in full-stack development.",
 		keywords: ["Certifications", "Kanika", "Full Stack Web Development", "Masai School"],
