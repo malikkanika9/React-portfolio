@@ -5,7 +5,6 @@ const INFO = {
 		email: "malikkanika9@gmail.com",
 		logo: "../logo.jpeg",
 	},
-
 	socials: {
 		twitter: "https://x.com/kanika563452911",
 		github: "https://github.com/malikkanika9",
