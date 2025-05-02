@@ -5,8 +5,8 @@ function article_1() {
 		date: "Sep 2022",
 		title: "Full Stack Web Development",
 		description:
-			"A curated list of certifications that reflect my commitment to continuous learning and excellence in full-stack development.",
-		keywords: ["Certifications", "Kanika", "Full Stack Web Development", "Masai School"],
+  "Certified in Full Stack Web Development from Masai School, demonstrating my expertise in building robust and scalable web applications.",
+	keywords: ["Certifications", "Kanika", "Full Stack Web Development", "Masai School"],
 		style: `
 			.article-content {
 				display: flex;
