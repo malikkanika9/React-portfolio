@@ -3,7 +3,7 @@ import React from "react";
 import "./styles/article.css";
 
 const Article = (props) => {
-	const { title, description, date, link } = props;
+	const { title, description, date } = props;
 
 	return (
 		<React.Fragment>
